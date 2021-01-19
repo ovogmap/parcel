@@ -1,5 +1,5 @@
 {
-  "name": "parcel-search",
+  "name": "parcel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,5 +54,5 @@
   "devDependencies": {
     "@types/node-sass": "^4.11.1"
   },
-  "homepage": "https://ovogmap.github.io/Parcel-search"
+  "homepage": "https://ovogmap.github.io/parcel"
 }
